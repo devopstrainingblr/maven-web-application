@@ -1,20 +1,24 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	
-	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
-	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
-	
-	<name>Maven Web Application</name>
-	<url>http://mithuntechnologies.com</url>
+	<!-- Group Name -->
+        <groupId>com.mt</groupId>
+        <!-- Artifact ID, callled as project name -->
+        <artifactId>Maven-Web-Project</artifactId>
+        <!-- Version of the artifactt-->
+        <version>1.0-SNAPSHOT</version>
+        <!-- Defines the package (jar/war/ear)-->
+        <packaging>jar</packaging>
+ 
+        <!-- Project Name-->
+        <name>Maven-Web-Project</name>
+        <!-- Project's website -->
+        <url>http://www.mithuntechnologies.com</url>
 	
 	<description>Maven Web Project</description>
 
 	<organization>
 		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>http://mithuntechnologies.co.in/</url>
 	</organization>
 
 	<properties>
